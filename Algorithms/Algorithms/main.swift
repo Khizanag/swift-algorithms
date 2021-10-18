@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+let array = Array<Int>.read()
 
+print(array.sum())
